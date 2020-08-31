@@ -1,1 +1,2 @@
 # Telephone-Billing-System
+Telephone billing System is a simple command line application built using C.It has the feature of adding and modifying customer. It has feature like storing details of customer and showing details of customer.We can also Modify the details of customer.This application store the billing details of the customer and calculate the total amount,stores the information about amount paid and amount remaining
